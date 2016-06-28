@@ -31,7 +31,7 @@ To begin installation of **Dev C++** , locate where the download was saved and r
 
 Next, run the exacutable and you will see the follwing window:
 
-..  image:: Image.jpg
+..  image:: Image_1.jpg
     :align: center
 
 
