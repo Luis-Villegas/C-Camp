@@ -27,11 +27,12 @@ Windows Machine
 
 To begin installation of **Dev C++** , locate where the download was saved and run the executable called "Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe". By default the file should be located in the *Downloads* directory.
 
--image-
+..  image:: images/Image_1.png
+    :align: center
 
 Next, run the exacutable and you will see the follwing window:
 
-..  image:: Image_1.png
+..  image:: images/Image_2.png
     :align: center
 
 
