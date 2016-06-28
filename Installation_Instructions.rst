@@ -47,4 +47,18 @@ Next, run the exacutable and you will see the follwing window:
 ..  image:: images/Image_6.png
     :align: center
 
+..  image:: images/Image_7.png
+    :align: center
+
+..  image:: images/Image_8.png
+    :align: center
+
+..  image:: images/Image_9.png
+    :align: center
+
+..  image:: images/Image_10.png
+    :align: center
+
+..  image:: images/Image_11.png
+    :align: center
 
