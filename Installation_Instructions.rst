@@ -22,7 +22,7 @@ For Mac matchines, the **XCode** can be downloaded from the app store. The app i
 Installation
 ============
 
-The following demonstarates the installatino of the compiler for Windows and Mac.
+The following demonstrates the installatino of the compiler for Windows and Mac.
 
 Windows Machine
 +++++++++++++++
@@ -72,7 +72,7 @@ Compiler Configuration Setup
 If you chose to run **Dev C++** after the installatino wasw completed, you will be prompted to choose the setting for the complier. The follwing window will appear:
 
 
-You will pe prompted to pick the language that you would like to compiler to be in. (Note: This will only change the menu language. All code will still me writen in English). After selecting you language, click **Next**.
+You will be prompted to pick the language that you would like to compiler to be in. (Note: This will only change the menu language. All code will still me writen in English). After selecting you language, click **Next**.
 
 ..  image:: images/Image_8.png
     :align: center
