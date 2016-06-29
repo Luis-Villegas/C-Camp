@@ -12,7 +12,9 @@ Download (Windows)
 =================
 
 For Windows matchines, **Orwell Dev C++** can be dowloaded from the following link:
+
 - http://download.cnet.com/Orwell-Dev-C/3001-2069_4-12686.html?hlndr=1
+
 Download should commence emediately.
 
 For Mac matchines, the **XCode** can be downloaded from the app store. The app is called **XCode**, and the app is free to download.
@@ -31,18 +33,29 @@ To begin installation of **Dev C++** , locate where the download was saved and r
     :align: center
 
 Next, run the exacutable and you will see the follwing window:
+Here you will read over the license agreement and agree if you choose to. Click **Agree** to continue.
 
 ..  image:: images/Image_2.png
     :align: center
 
+
+
+Once you agree, you will be prompted to select with features you would like to install. For class purposes, it is recomended to use the default features selected. Click **Next** to continue.
+
 ..  image:: images/Image_3.png
     :align: center
+
+Now you will chose where the program should be saved. Click **Browse** if you would like to choose a diferent locatino than the default location.
 
 ..  image:: images/Image_4.png
     :align: center
 
+After selecting the program location, click **Next** to continue.
+
 ..  image:: images/Image_5.png
     :align: center
+
+
 
 ..  image:: images/Image_6.png
     :align: center
